@@ -1,4 +1,14 @@
+nav {
+    margin: 0%;
+
+    color: rgb(0, 0, 0);
+}
+
 body {
+    background-color: rgb(219, 219, 219);
+}
+
+.body2 {
     background-color: rgb(219, 219, 219);
     color: rgb(0, 0, 0);
     margin-left: 8%;
