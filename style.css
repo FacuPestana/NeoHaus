@@ -1,13 +1,21 @@
-body{
-    background-color: rgb(36, 35, 35);
-    color: white;
-    
+body {
+    background-color: rgb(219, 219, 219);
+    color: rgb(0, 0, 0);
+
 }
 
-#a{
-    color: red;
-}
-
-#neo{
+#neo {
     color: rgb(131, 240, 58);
+}
+
+nav {
+    font-size: 32px;
+}
+
+.texto {
+    font-size: 24px;
+}
+
+.pregunta {
+    font-size: 32px;
 }
