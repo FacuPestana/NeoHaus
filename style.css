@@ -33,3 +33,7 @@ nav {
 .pregunta {
     font-size: 32px;
 }
+
+.nav-item {
+    margin-left: 0.5%;
+}
